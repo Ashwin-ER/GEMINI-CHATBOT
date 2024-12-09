@@ -1,0 +1,4 @@
+ipython==8.12.3
+protobuf==5.29.1
+python-dotenv==1.0.1
+streamlit==1.40.2
